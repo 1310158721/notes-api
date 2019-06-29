@@ -1,0 +1,124 @@
+{
+  "Menu": [
+    {
+      "key": "Node",
+      "icon": "folder",
+      "title": "Node 相关",
+      "children": [
+        {
+          "key": "node-modules",
+          "icon": "file",
+          "path": "/node-modules",
+          "title": "Node 自身模块"
+        },
+        {
+          "key": "node-ambitus",
+          "icon": "file",
+          "path": "/node-ambitus",
+          "title": "Node 周边生态"
+        }
+      ]
+    },
+    {
+      "key": "Javascript",
+      "icon": "folder",
+      "title": "Js 相关",
+      "children": [
+        {
+          "key": "js-es5",
+          "icon": "file",
+          "path": "/js-es5",
+          "title": "Es5 相关内容"
+        },
+        {
+          "key": "js-es6",
+          "icon": "file",
+          "path": "/js-es6",
+          "title": "Es6 相关内容"
+        }
+      ]
+    },
+    {
+      "key": "Vue",
+      "icon": "folder",
+      "title": "VUE 相关",
+      "children": [
+        {
+          "key": "vue-apis",
+          "icon": "file",
+          "path": "/vue-apis",
+          "title": "Vue自身的api"
+        },
+        {
+          "key": "vue-directives",
+          "icon": "file",
+          "path": "/vue-directives",
+          "title": "Vue 指令"
+        }
+      ]
+    },
+    {
+      "key": "Css",
+      "icon": "folder",
+      "title": "Css 相关",
+      "children": [
+        {
+          "key": "css-less",
+          "icon": "file",
+          "path": "/css-less",
+          "title": "Less 预处理语言"
+        },
+        {
+          "key": "css-sass",
+          "icon": "file",
+          "path": "/css-sass",
+          "title": "Sass 预处理语言"
+        },
+        {
+          "key": "css-stylus",
+          "icon": "file",
+          "path": "/css-stylus",
+          "title": "Stylus 预处理语言"
+        },
+        {
+          "key": "css-origin",
+          "icon": "file",
+          "path": "/css-origin",
+          "title": "原生 Css"
+        }
+      ]
+    },
+    {
+      "key": "Plugins",
+      "icon": "folder",
+      "title": "常用插件",
+      "children": [
+        {
+          "key": "plugins-npm",
+          "icon": "file",
+          "path": "/plugins-npm",
+          "title": "Npm 常用模块"
+        }
+      ]
+    },
+    {
+      "key": "Tools",
+      "icon": "folder",
+      "title": "使用工具",
+      "children": [
+        {
+          "key": "tools-git",
+          "icon": "file",
+          "path": "/tools-git",
+          "title": "常用工具 - Git"
+        }
+      ]
+    },
+    {
+      "key": "test",
+      "icon": "file",
+      "path": "/test",
+      "title": "方便测试"
+    }
+  ]
+}
